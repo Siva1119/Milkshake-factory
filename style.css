@@ -1,0 +1,56 @@
+h1{
+    color:white;
+    text-align:center;
+}
+p{
+    color:aqua;
+
+}
+.my-container{
+    height:50vh;
+    background-color:blue;
+    text-align:center;
+    
+}
+h2{
+    color:blue;
+   text-align:center; 
+   height:5vh;
+   background-color:white;
+}
+.food-items{
+    text-align:center;
+    
+    background-color:white;
+
+
+}
+.food-ims{
+    color:black;
+}
+.food-2{
+    color:black;
+
+
+}
+
+body{
+    height:200vh;
+    margin:0;
+    padding:0;
+}
+h2{
+    color:blue
+}
+.container{
+    text-align:center;
+    
+     background-color:blue;
+}
+.food-3{
+    color:black;
+
+}
+.food-4{
+    color:black   
+}
